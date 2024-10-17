@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://tigazayofunu.pages.dev/sitemap.xml
